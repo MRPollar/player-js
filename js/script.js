@@ -3,22 +3,22 @@ const json = [
       id: 1,
       title:'Tomorrow',
       artist:'Downplay',
-      img: '/imgs/downplay.jpg',
-      uri: '/sounds/audio1.mp3',
+      img: 'imgs/downplay.jpg',
+      uri: 'sounds/audio1.mp3',
    },
    {
       id: 2,
       title:'Stronger',
       artist:'Emphatic',
-      img: '/imgs/emphatic.jpg',
-      uri: '/sounds/audio2.mp3',
+      img: 'imgs/emphatic.jpg',
+      uri: 'sounds/audio2.mp3',
    },
    {
       id: 3,
       title:'Die For You',
       artist:'Starset',
-      img: '/imgs/starset.jpg',
-      uri: '/sounds/audio3.mp3',
+      img: 'imgs/starset.jpg',
+      uri: 'sounds/audio3.mp3',
    },
 ];
 
